@@ -23,8 +23,7 @@ model to make predictions.
 
 ![206685671-af62962e-7d05-4872-a5c8-49326b724eb8](https://user-images.githubusercontent.com/75086008/222153149-4a0f0667-1355-4e1d-830f-e4d5ae974a6e.png)
 
-• to host this application on the web we used the streamlit platform
-this is the frontend that streamed by streamlet
+• We have hosted this application on the web using the Streamlit platform. The Streamlit frontend provides a user-friendly interface for interacting with the model and obtaining predictions.
 
 ![206682905-9ad9a878-0cf7-4d07-aadf-54cb5871f14a](https://user-images.githubusercontent.com/75086008/222153170-a9e9375a-2f83-4926-bfc3-cf46a3a767fa.png)
 
