@@ -14,7 +14,7 @@ Oversampling Technique (SMOTE)
 • Using several alternative models, preprocessing techniques, and evaluation methods to select the most suitable
 model to make predictions.
 
-• the dassification models we used:
+• The Classification models we used:
 1. Naive Bayes
 3. Logistic Regression models.
 
