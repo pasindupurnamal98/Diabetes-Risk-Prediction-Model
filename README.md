@@ -16,9 +16,11 @@ model to make predictions.
 • the dassification models we used:
 1. Naive Bayes
 3. Logistic Regression models.
-• After some evaluations (accuracy and f1 score) we have decided to go with the Naive Bayes model
 
 ![206685647-e6b0367c-288b-49aa-b11c-afead366cd13](https://user-images.githubusercontent.com/75086008/222153158-1945d0f5-c3d3-4758-b475-850e078044dc.png)
+
+• After some evaluations (accuracy and f1 score) we have decided to go with the Naive Bayes model
+
 ![206685671-af62962e-7d05-4872-a5c8-49326b724eb8](https://user-images.githubusercontent.com/75086008/222153149-4a0f0667-1355-4e1d-830f-e4d5ae974a6e.png)
 
 • to host this application on the web we used the streamlit platform
