@@ -2,8 +2,10 @@
 
 • Machine leaming algorithms and statistical methods applied to this historical data to predict diabetes at an early
 stage.
+
 • The dataset publicized by The Centers for Disease Control and Prevention (CDC), based in the United States. This
 dataset was found on Kaggle to predict which patients are at risk of diabetes using many features.
+
 • Class imbalance was detected in the pre-processing steps and we fixed the dataset using Synthetic Minority
 Oversampling Technique (SMOTE)
 
@@ -21,5 +23,6 @@ model to make predictions.
 
 • to host this application on the web we used the streamlit platform
 this is the frontend that streamed by streamlet
+
 ![206682905-9ad9a878-0cf7-4d07-aadf-54cb5871f14a](https://user-images.githubusercontent.com/75086008/222153170-a9e9375a-2f83-4926-bfc3-cf46a3a767fa.png)
 
